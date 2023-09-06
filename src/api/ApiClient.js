@@ -1,0 +1,6 @@
+
+class DashboardApi {
+    static getUrl(){
+
+    }
+}
